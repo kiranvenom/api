@@ -13,7 +13,7 @@
 	},
 	{
 		"phoneName": "Xiaomi POCO F1",
-		"src": "./phoneImage/beryllium.png",
+		"src": "https://github.com/kiranvenom/api/blob/main/phoneImage/beryllium.png?raw=true",
 		"downloades": 634252,
 		"codeName": "beryllium"
 	},

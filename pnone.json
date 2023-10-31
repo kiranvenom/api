@@ -1,0 +1,74 @@
+[
+	{
+		"phoneName": "Xiaomi Redmi Note 7 / 7S",
+		"src": "./phoneImage/lavender.png",
+		"downloades": 940733,
+		"codeName": "lavender"
+	},
+	{
+		"phoneName": "Xiaomi Redmi Note 5 Global / Pro",
+		"src": "./phoneImage/whyred.png",
+		"downloades": 640033,
+		"codeName": "whyred"
+	},
+	{
+		"phoneName": "Xiaomi POCO F1",
+		"src": "./phoneImage/beryllium.png",
+		"downloades": 634252,
+		"codeName": "beryllium"
+	},
+	{
+		"phoneName": "Xiaomi Redmi Note 4 / 4X",
+		"src": "./phoneImage/mido.png",
+		"downloades": 518186,
+		"codeName": "mido"
+	},
+	{
+		"phoneName": "Xiaomi Redmi Note 8 / 8T",
+		"src": "./phoneImage/ginkgo.png",
+		"downloades": 487616,
+		"codeName": "ginkgo"
+	},
+	{
+		"phoneName": "ASUS Zenfone Max Pro M1",
+		"src": "./phoneImage/X00TD.png",
+		"downloades": 332975,
+		"codeName": "X00TD"
+	},
+	{
+		"phoneName": "Xiaomi Mi A1",
+		"src": "./phoneImage/tissot.png",
+		"downloades": 258282,
+		"codeName": "tissot"
+	},
+	{
+		"phoneName": "OnePLus 6T",
+		"src": "./phoneImage/fajita.png",
+		"downloades": 158282,
+		"codeName": "fajita"
+	},
+	{
+		"phoneName": "Samsung note 8s",
+		"src": "./phoneImage/beyondx.png",
+		"downloades": 258382,
+		"codeName": "beyondx"
+	},
+	{
+		"phoneName": "Xiaomi Redmi K20 Pro / Mi 9T Pro",
+		"src": "./phoneImage/raphael.png",
+		"downloades": 284454,
+		"codeName": "raphael"
+	},
+	{
+		"phoneName": "Google pixel 3",
+		"src": "./phoneImage/sargo.png",
+		"downloades": 84454,
+		"codeName": "sargo"
+	},
+	{
+		"phoneName": "Lenovo Z6 Pro",
+		"src": "./phoneImage/zippo.png",
+		"downloades": 84454,
+		"codeName": "zippo"
+	}
+]
